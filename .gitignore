@@ -1,0 +1,39 @@
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
+*.dll
+*.so
+*.exe
+
+# Gradle files
+.gradle/
+build/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+local.properties
+
+.vscode/
+*.html
+*.txt
